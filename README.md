@@ -4,7 +4,7 @@ A simple JavaScript card game where the user competes against the computer.
 
 ## Live Demo
 
-https://alexandrabalinskaiya.github.io/lr9/
+https://alexandrabalinskaiya.github.io/card-battle-game/
 
 ## Description
 
