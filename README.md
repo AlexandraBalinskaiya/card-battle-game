@@ -56,4 +56,4 @@ The user enters a name and plays against the computer for three rounds. In each 
 
 ## Author
 
-Alexandra Balinska
+Oleksandra Balinska
